@@ -1,0 +1,10 @@
+venv314/
+backend/venv314/
+.env
+backend/.env
+__pycache__/
+*.pyc
+uploads/*
+!uploads/.gitkeep
+chroma_data/*
+!chroma_data/.gitkeep
