@@ -10,7 +10,7 @@ This project was built as a hands-on way to understand the RAG pattern that powe
 
 ## 🚀 Live Demo
 
-- **Linkedin:** [URL]
+- **Linkedin:** https://lnkd.in/p/dqzbTFGH
 
 
 ---
